@@ -24,7 +24,6 @@ if(DEBUG) {
         watchOptions: {
             aggregateTimeout: 300
         },
-        hot: false,
         stats: {
             colors: true
         }
